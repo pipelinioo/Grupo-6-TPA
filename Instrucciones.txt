@@ -1,0 +1,8 @@
+El programa se ejecuta con el main.py.
+
+En este modelo beta solo tenemos 2 empleados .
+
+Julio que es el adminitrador (Gerente), en donde podremos desplegar las distintas ventanas que el gerente puede ocupar, para volver atras se debe cerrar la ventana postpuesta.
+Andres es el colaborador(trabajador),  en donde podremos desplegar las distintas ventanas que el trabajador puede ocupar, para volver atras se debe cerrar la ventana postpuesta.
+
+
